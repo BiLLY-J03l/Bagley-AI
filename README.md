@@ -7,7 +7,7 @@ Bagley-AI chatbot with python3
 
 -Installation:
 
-    git clone
+    git clone https://github.com/BiLLY-J03l/Bagley-AI.git
     pip install -r requirements.txt --break-system-packages
     chmod +x bagley.py
     ./bagley.py --interactive
