@@ -1,5 +1,5 @@
 # Bagley-AI
-Bagley-AI chatbot with python3
+Bagley-AI chatbot with python3 and OpenAI
 
 -This AI chatbot uses OpenAI API key and lets you use the AI within the terminal.
 
